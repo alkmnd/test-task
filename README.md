@@ -9,4 +9,6 @@ WHATSAPP_TOKEN=5d8af8faaeb61680883a850be0c577e2
 ```
 Для запуска программы использовать команду:
 
-```go run cmd/main.go```
+```
+go run cmd/main.go
+```
